@@ -1,0 +1,10 @@
+{
+  "output_dir": "",
+  "default_resolution": "720p",
+  "default_block_size": 4,
+  "default_ecc_overhead": 0.2,
+  "default_fps": 30,
+  "ffmpeg_path": "ffmpeg",
+  "theme": "dark",
+  "log_level": "INFO"
+}
