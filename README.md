@@ -243,4 +243,12 @@ python -m pytest tests/test_roundtrip.py -v
 
 ## 📄 License
 
-This project is provided as-is for educational and research purposes.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
+
+## 📋 Code of Conduct
+
+This project adheres to the [Contributor Covenant](CODE_OF_CONDUCT.md) code of conduct. By participating, you are expected to uphold this code.
